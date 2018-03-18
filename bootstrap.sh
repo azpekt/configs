@@ -20,10 +20,14 @@ sh ~/.vim_runtime/install_awesome_vimrc.sh
 # getting powerline shell config and installing
 git clone https://github.com/b-ryan/powerline-shell
 cd powerline-shell
-python setup.py install
+sudo python setup.py install
 
 # copying bash config file to homedir
-cp config/.bashrc .
+cp ~/configs/.bashrc ~/
+source ~/.bashrc
+
+# cleaning shit
+#rm -rf ~/configs
 
 # all done!
 echo "done, Nik - this baby is all yours...!"
