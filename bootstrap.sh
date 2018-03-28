@@ -8,6 +8,7 @@ sudo yum update -y vim*
 # installing goodies
 sudo yum install -y git
 sudo yum install -y screen
+sudo yum install -y docker
 
 # getting configs
 git clone https://github.com/azpekt/configs.git
@@ -25,6 +26,10 @@ sudo python setup.py install
 # copying bash config file to homedir
 cp ~/configs/.bashrc ~/
 source ~/.bashrc
+
+# enabling docker
+sudo systemctl enable docker
+sudo systemctl start docker
 
 # cleaning shit
 #rm -rf ~/configs
