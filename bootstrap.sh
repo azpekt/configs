@@ -9,6 +9,7 @@ sudo yum update -y vim*
 sudo yum install -y git
 sudo yum install -y screen
 sudo yum install -y docker
+sudo yum install -y python-setuptools
 
 # getting configs
 git clone https://github.com/azpekt/configs.git
