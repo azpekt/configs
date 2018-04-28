@@ -1,1 +1,6 @@
 URxvt.font: -*-terminus-bold-r-normal--24-*-*-*-*-*-*-*
+URxvt.scrollBar: false
+URxvt*background: black
+URxvt*foreground: white
+
+
