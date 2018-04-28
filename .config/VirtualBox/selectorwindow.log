@@ -1,0 +1,28 @@
+VirtualBox GUI VM Selector Window 5.2.10 r121806 linux.amd64 (Apr 17 2018 21:03:54) release log
+00:00:00.282486 Log opened 2018-04-28T16:14:46.209078000Z
+00:00:00.282487 Build Type: release
+00:00:00.282489 OS Product: Linux
+00:00:00.282491 OS Release: 4.16.4-1-ARCH
+00:00:00.282492 OS Version: #1 SMP PREEMPT Tue Apr 24 13:21:29 UTC 2018
+00:00:00.282513 DMI Product Name: 20KH002HUS
+00:00:00.282520 DMI Product Version: ThinkPad X1 Carbon 6th
+00:00:00.282564 Host RAM: 15794MB (15.4GB) total, 13981MB (13.6GB) available
+00:00:00.282568 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.282568 Process ID: 6099
+00:00:00.282569 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.282594 Qt version: 5.10.1
+00:00:00.294388 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.294399 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.295468 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.295477 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.374049 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1707x0 x 853x1403
+00:00:00.386640 Failed to open "/dev/vboxdrv", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.397149 refreshCertificates/#1: InMem.Cert.TbsCertificate.T3.Extensions.papItems[#].ExtnValue.NameConstraints.T0.PermittedSubtrees.papItems[#]: Unexpected sequence type/flags: 0x2/0x80 (expected 0x10/0x20)
+00:00:00.398388 refreshCertificates/#3: Found 1/152 SSL certs we/you trust (previously 0/0).
+00:00:01.890051 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.890204 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:37.920601 GUI: UIMediumEnumerator: Medium with key={d9b10138-852d-421e-afd3-f17903ae2bc2} created
+00:00:38.066429 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:40.878412 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:40.971388 2D support test succeeded
+00:00:41.016210 GUI: UIMediumEnumerator: Medium-enumeration finished!
