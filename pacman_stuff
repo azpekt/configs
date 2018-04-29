@@ -3,7 +3,6 @@ pacman -S os-prober
 pacman -S wireless_tools wpa_supplicant wpa_actiond dialog
 pacman -S firefox
 pacman -S i3
-pacman -S xorg-xinit
 pacman -S vim
 pacman -S dmenu xorg xorg-xinit
 pacman -S rxvt-unicode
@@ -12,9 +11,7 @@ pacman -S alsa-utils
 pacman -S screen
 pacman -S htop
 pacman -S terminus-font
-pacman -S bluez bluez-utils
 pacman -S pavucontrol
-pacman -S pulseaudio
-pacman -S pulseaudio-alsa pulseaudio-bluetooth
+pacman -S pulseaudio-alsa pulseaudio-bluetooth bluez bluez-libs bluez-utils
 pacman -S virtualbox
 pacman -S git
