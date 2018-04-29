@@ -1,5 +1,7 @@
 #!/bin/bash
 
+
+
 #adding vim repo to update it to vim8
 sudo curl -L https://copr.fedorainfracloud.org/coprs/mcepl/vim8/repo/epel-7/mcepl-vim8-epel-7.repo -o /etc/yum.repos.d/mcepl-vim8-epel-7.repo
 
