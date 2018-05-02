@@ -15,3 +15,5 @@ pacman -S pavucontrol
 pacman -S pulseaudio-alsa pulseaudio-bluetooth bluez bluez-libs bluez-utils
 pacman -S virtualbox
 pacman -S git
+
+load-module module-switch-on-connect > /etc/pulse/default.pa
