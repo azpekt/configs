@@ -1,0 +1,1015 @@
+{
+   "checksum": "44165f3f6c895d3951d9bc700e608157",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13141361534665103",
+               "id": "125",
+               "name": "The Art of Manliness | Men's Interests and Lifestyle",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.artofmanliness.com/"
+            } ],
+            "date_added": "13169614688057679",
+            "date_modified": "13169614688057680",
+            "id": "33",
+            "name": "Stuff",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13167331988049558",
+                  "id": "123",
+                  "meta_info": {
+                     "last_visited_desktop": "13167432126007820"
+                  },
+                  "name": "Red Hat Connect for Business Partners",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://partnercenter.redhat.com/Dashboard_page"
+               }, {
+                  "date_added": "13167331988060695",
+                  "id": "124",
+                  "name": "Business Partners Course Catalog",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://www.redhat.com/en/partners/course_catalog"
+               } ],
+               "date_added": "13169614688062008",
+               "date_modified": "13169614688062008",
+               "id": "81",
+               "name": "GL",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "date_added": "13141361534685042",
+               "id": "82",
+               "name": "AWS | Whitepapers",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://aws.amazon.com/whitepapers/"
+            }, {
+               "date_added": "13141361534690580",
+               "id": "83",
+               "name": "Periodic Table of Devops Tools",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://xebialabs.com/periodic-table-of-devops-tools/"
+            }, {
+               "date_added": "13141361534695605",
+               "id": "84",
+               "name": "Оглавление — Problem Solving with Algorithms and Data Structures",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://aliev.me/runestone/"
+            }, {
+               "date_added": "13141361534699476",
+               "id": "85",
+               "meta_info": {
+                  "last_visited_desktop": "13149114502883189"
+               },
+               "name": "veggiemonk/awesome-docker: A curated list of Docker resources and projects",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/veggiemonk/awesome-docker"
+            }, {
+               "date_added": "13141361534704148",
+               "id": "86",
+               "name": "zwischenzugs | DevOps, Docker and ShutIt",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://zwischenzugs.wordpress.com/"
+            }, {
+               "date_added": "13141361534708543",
+               "id": "87",
+               "name": "Python Advanced: Advanced Topics",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.python-course.eu/advanced_topics.php"
+            }, {
+               "date_added": "13141361534712298",
+               "id": "88",
+               "name": "Google - Site Reliability Engineering",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://landing.google.com/sre/"
+            }, {
+               "date_added": "13141361534716659",
+               "id": "89",
+               "name": "Python Exercises, Practice, Solution - w3resource",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.w3resource.com/python-exercises/"
+            }, {
+               "date_added": "13141361534721146",
+               "id": "90",
+               "name": "Practice python",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.practicepython.org/exercise/2014/01/29/01-character-input.html"
+            }, {
+               "date_added": "13141361534724911",
+               "id": "91",
+               "name": "The Netflix Tech Blog",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://techblog.netflix.com/"
+            }, {
+               "date_added": "13141361534729444",
+               "id": "92",
+               "name": "Codeguida — ІТ України та світу",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://codeguida.com/search/?q=python"
+            }, {
+               "date_added": "13141361534733855",
+               "id": "93",
+               "name": "sindresorhus/awesome",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/sindresorhus/awesome"
+            }, {
+               "date_added": "13141361534738419",
+               "id": "94",
+               "name": "Skiena's Audio Lectures",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www3.cs.stonybrook.edu/~algorith/video-lectures/"
+            }, {
+               "date_added": "13141361534742881",
+               "id": "95",
+               "name": "Основы математики | Лекториум",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.lektorium.tv/course/22827"
+            }, {
+               "date_added": "13141361534747258",
+               "id": "96",
+               "name": "Welcome - Realize Your Potential: AWSTraining",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://awstraining.csod.com/LMS/catalog/Welcome.aspx?tab_page_id=-67&tab_id=-1"
+            }, {
+               "date_added": "13141361534751594",
+               "id": "97",
+               "name": "A Good Vimrc",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://dougblack.io/words/a-good-vimrc.html"
+            }, {
+               "date_added": "13141361534756617",
+               "id": "98",
+               "name": "Full Stack Python development",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.fullstackpython.com/table-of-contents.html"
+            }, {
+               "date_added": "13141361534760488",
+               "id": "99",
+               "name": "Beginning web sites with Python and Flask - Microsoft Virtual Academy",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://mva.microsoft.com/en-US/training-courses/beginning-web-sites-with-python-and-flask-8677?l=sNshpAH1_8604984382"
+            }, {
+               "date_added": "13141361534764256",
+               "id": "100",
+               "name": "The New Stack",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://thenewstack.io/"
+            }, {
+               "date_added": "13141361534768259",
+               "id": "101",
+               "name": "Math ∩ Programming",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://jeremykun.com/"
+            }, {
+               "date_added": "13141361534772471",
+               "id": "102",
+               "meta_info": {
+                  "last_visited_desktop": "13166629927358133"
+               },
+               "name": "Kubernetes Blog",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://blog.kubernetes.io/"
+            }, {
+               "date_added": "13141361534776140",
+               "id": "103",
+               "name": "jwasham/google-interview-university: A complete daily plan for studying to become a Google software engineer.",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/jwasham/google-interview-university"
+            }, {
+               "date_added": "13141361534779637",
+               "id": "104",
+               "name": "Tools and Toys — Hand-Picked for Work and Play",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://toolsandtoys.net/"
+            }, {
+               "date_added": "13141361534783856",
+               "id": "105",
+               "name": "USENIX | The Advanced Computing Systems Association",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.usenix.org/"
+            }, {
+               "date_added": "13141361534788056",
+               "id": "106",
+               "name": "Python Top 10 Articles for the Past Year (v.2017)",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://medium.mybridge.co/python-top-10-articles-for-the-past-year-v-2017-6033ae8c65c9#.5b84msdkv"
+            }, {
+               "date_added": "13141361534791906",
+               "id": "107",
+               "name": "High Scalability -",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://highscalability.com/"
+            }, {
+               "date_added": "13141361534795990",
+               "id": "108",
+               "name": "Blog | LinkedIn Engineering",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://engineering.linkedin.com/blog"
+            }, {
+               "date_added": "13141361534800600",
+               "id": "109",
+               "name": "donnemartin/interactive-coding-challenges: Huge update! Interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://github.com/donnemartin/interactive-coding-challenges"
+            }, {
+               "date_added": "13141361534804986",
+               "id": "110",
+               "name": "DevOps_habrahabr",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://m.habrahabr.ru/hub/devops/"
+            }, {
+               "date_added": "13143163692338569",
+               "id": "111",
+               "meta_info": {
+                  "last_visited_desktop": "13143163692339227"
+               },
+               "name": "Categories",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://paulhammant.com/categories.html#DevOps"
+            }, {
+               "date_added": "13167331987893593",
+               "id": "112",
+               "name": "DevOps Archives - Atlassian Blog",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.atlassian.com/blog/devops"
+            }, {
+               "date_added": "13167331987907398",
+               "id": "113",
+               "name": "DevopsCube - DevOps trends, News, tutorials, cloud computing",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://devopscube.com/"
+            }, {
+               "date_added": "13167331987922134",
+               "id": "114",
+               "name": "Home - DevOps.com",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://devops.com/"
+            }, {
+               "date_added": "13167331987936675",
+               "id": "115",
+               "name": "Docker Blog - News and versions will be announced here",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://blog.docker.com/"
+            }, {
+               "date_added": "13167331987961633",
+               "id": "116",
+               "name": "DZone DevOps",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://dzone.com/devops-tutorials-tools-news"
+            }, {
+               "date_added": "13167331987973472",
+               "id": "117",
+               "name": "Agile web and app development Archives - Apiumhub",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://apiumhub.com/tech-blog-barcelona/category/agile-web-and-mobile-development/"
+            }, {
+               "date_added": "13167331987984303",
+               "id": "118",
+               "name": "Home - IT Revolution",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://itrevolution.com/"
+            }, {
+               "date_added": "13167331987996846",
+               "id": "119",
+               "name": "InfoWorld - Technology insight for the enterprise",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.infoworld.com/"
+            }, {
+               "date_added": "13167331988016695",
+               "id": "120",
+               "name": "the agile admin | thoughts on agile web operations and devops by @ernestmueller, @wickett, @iteration1 and @bproverb",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://theagileadmin.com/"
+            }, {
+               "date_added": "13167331988036787",
+               "id": "121",
+               "name": "The DevOpsGuys Blog - Talking About All Things DevOps | DevOpsGuys",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://www.devopsguys.com/blog/"
+            }, {
+               "date_added": "13157241672200767",
+               "id": "122",
+               "name": "Cloud Practice - Agile Board - Velocity Jira",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://velocity.globallogic.com/jira/secure/RapidBoard.jspa?rapidView=1956"
+            } ],
+            "date_added": "13169614688058317",
+            "date_modified": "13169614688058317",
+            "id": "34",
+            "name": "IT",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13141361534837781",
+               "id": "78",
+               "name": "Headphone Commute | What are you listening to?",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://reviews.headphonecommute.com/"
+            }, {
+               "date_added": "13141361534841544",
+               "id": "79",
+               "name": "Arrhythmia Sound - музыка, которая достойна внимания",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.arrhythmiasound.com/"
+            }, {
+               "date_added": "13141361534845879",
+               "id": "80",
+               "name": "Optimistic Underground",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://optimisticunderground.com/"
+            } ],
+            "date_added": "13169614688058552",
+            "date_modified": "13169614688058552",
+            "id": "35",
+            "name": "Music",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13141361534849824",
+               "id": "71",
+               "name": "Хвиля - новости и аналитика",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://hvylya.net/"
+            }, {
+               "date_added": "13141361534854136",
+               "id": "72",
+               "name": "LIKБЕЗ. Исторический фронт",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://likbez.org.ua/en/"
+            }, {
+               "date_added": "13141361534858626",
+               "id": "73",
+               "name": "Моноклер — Человек через призму культуры и науки",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://monocler.ru/"
+            }, {
+               "date_added": "13141361534862939",
+               "id": "74",
+               "name": "Збруч |",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://zbruc.eu/"
+            }, {
+               "date_added": "13141361534866658",
+               "id": "75",
+               "name": "КРИТИКА | Простір незалежної думки",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://krytyka.com/ua"
+            }, {
+               "date_added": "13141361534870195",
+               "id": "76",
+               "name": "Ruthenia",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://rutheni.blogspot.com/"
+            }, {
+               "date_added": "13141361534875118",
+               "id": "77",
+               "name": "Лікбез - Історичний фронт",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://likbez.org.ua/ua/"
+            } ],
+            "date_added": "13169614688058756",
+            "date_modified": "13169614688058756",
+            "id": "36",
+            "name": "History, Politics, Analytics",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13141361534879800",
+               "id": "68",
+               "meta_info": {
+                  "last_visited_desktop": "13147216853427677"
+               },
+               "name": "Главная | Читомо",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.chytomo.com/"
+            }, {
+               "date_added": "13141361534883701",
+               "id": "69",
+               "meta_info": {
+                  "last_visited_desktop": "13167958267481442"
+               },
+               "name": "Pocket Explore",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://getpocket.com/explore/"
+            }, {
+               "date_added": "13167714226582833",
+               "id": "70",
+               "name": "Література. Сучасна українська література. Всеохопний літературний портал – Література на Друзі читача. Сучасна українська література та",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://vsiknygy.net.ua/"
+            } ],
+            "date_added": "13169614688059143",
+            "date_modified": "13169614688059143",
+            "id": "37",
+            "name": "Books",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13141361534888982",
+               "id": "63",
+               "name": "Академічний тлумачний словник української мови",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://sum.in.ua/"
+            }, {
+               "date_added": "13141361534893612",
+               "id": "64",
+               "name": "Prometheus",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://prometheus.org.ua/"
+            }, {
+               "date_added": "13141361534898222",
+               "id": "65",
+               "name": "Модне слівце- Автор на UA Modna",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://modne-slivce.uamodna.com/"
+            }, {
+               "date_added": "13141361534902930",
+               "id": "66",
+               "name": "Зміст - Російсько-український словник",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://ros-ukr-idioms.wikidot.com/"
+            }, {
+               "date_added": "13167331988221649",
+               "id": "67",
+               "name": "Nautilus | Science Connected",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://nautil.us/"
+            } ],
+            "date_added": "13169614688059396",
+            "date_modified": "13169614688059396",
+            "id": "38",
+            "name": "Education",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13141361534908172",
+               "id": "61",
+               "name": "Выживание в экстремальных условиях",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://lastday.club/"
+            }, {
+               "date_added": "13141361534913523",
+               "id": "62",
+               "name": "No Meat Athlete - Plant-Based Diet for Fitness | Vegan Recipes & Nutrition | Vegan Fitness & Running",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://www.nomeatathlete.com/"
+            } ],
+            "date_added": "13169614688059639",
+            "date_modified": "13169614688059639",
+            "id": "39",
+            "name": "Sport, Survival",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13142536594801444",
+               "id": "41",
+               "meta_info": {
+                  "last_visited_desktop": "13146171413568006"
+               },
+               "name": "Identity Self Service",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://wagid.walgreens.com/identity/?_afrLoop=29123255430627476&_afrWindowMode=0&_afrWindowId=o9xzyusy9&_adf.ctrl-state=1bswcddz60_126"
+            }, {
+               "date_added": "13142704835784633",
+               "id": "42",
+               "meta_info": {
+                  "last_visited_desktop": "13158279976262189"
+               },
+               "name": "Appdev-Kanban-Board - Agile Board - WBA Jira",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://oneit.wba.com/jira/secure/RapidBoard.jspa?rapidView=2925&projectKey=RXRNWDEVOP&view=detail&selectedIssue=RXRNWDEVOP-2982"
+            }, {
+               "date_added": "13142730780990556",
+               "id": "43",
+               "meta_info": {
+                  "last_visited_desktop": "13164402196606610"
+               },
+               "name": "RXRDOSCRUM board - Agile Board - WBA Jira",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://oneit.wba.com/jira/secure/RapidBoard.jspa?rapidView=1341&projectKey=RXRDOSCRUM&view=planning&selectedIssue=RXRDOSCRUM-1921"
+            }, {
+               "date_added": "13143756459857203",
+               "id": "44",
+               "meta_info": {
+                  "last_visited_desktop": "13157583518567959"
+               },
+               "name": "Sonatype Nexus",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://10.217.8.107:7010/nexus/#welcome"
+            }, {
+               "date_added": "13143759354416047",
+               "id": "45",
+               "meta_info": {
+                  "last_visited_desktop": "13164757858552655"
+               },
+               "name": "WBA_Artifactory",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://oneit.wba.com/artifactory/webapp/#/home"
+            }, {
+               "date_added": "13143841910112552",
+               "id": "46",
+               "meta_info": {
+                  "last_visited_desktop": "13166206663971813"
+               },
+               "name": "RequestIt Active Pages - Active Services",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "javascript:void(0)"
+            }, {
+               "date_added": "13143843106534693",
+               "id": "47",
+               "meta_info": {
+                  "last_visited_desktop": "13166206693805709"
+               },
+               "name": "ID Request Management System 7.5",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://idrms.walgreens.com/NewIDRequest/servlet/walgreens.remedy.idrequest.proxy.IDRequestProxy/walgreens.remedy.idrms.rh.EntryPointReqHndlr"
+            }, {
+               "date_added": "13143924907257176",
+               "id": "48",
+               "meta_info": {
+                  "last_visited_desktop": "13157583308293457"
+               },
+               "name": "Jenkins_old",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://dla-awurxjsci01.walgreens.com:8080/"
+            }, {
+               "date_added": "13144172300404082",
+               "id": "49",
+               "meta_info": {
+                  "last_visited_desktop": "13160262666328006"
+               },
+               "name": "Environment Details for AppDev - Rx Renewal DevOps - WBA Confluence",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://oneit.wba.com/confluence/display/RXRNWDVOPS/Environment+Details+for+AppDev#EnvironmentDetailsforAppDev-DevQE2"
+            }, {
+               "date_added": "13144182614338290",
+               "id": "50",
+               "meta_info": {
+                  "last_visited_desktop": "13169838676326508"
+               },
+               "name": "Rx Renewal Environments - Rx Renewal DevOps - WBA Confluence",
+               "sync_transaction_version": "3",
+               "type": "url",
+               "url": "https://oneit.wba.com/confluence/display/RXRNWDVOPS/Rx+Renewal+Environments"
+            }, {
+               "date_added": "13144518457053729",
+               "id": "51",
+               "meta_info": {
+                  "last_visited_desktop": "13157583551288593"
+               },
+               "name": "RX Renewal Release - Rx Renewal DevOps - WBA Confluence",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://oneit.wba.com/confluence/display/RXRNWDVOPS/Rx+Renewal+Release"
+            }, {
+               "date_added": "13145381121789896",
+               "id": "52",
+               "meta_info": {
+                  "last_visited_desktop": "13167951804214656"
+               },
+               "name": "Corporate Wi-Fi",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://euc/EUCSupport/supportres/Wifi/guest_wifi_body.aspx"
+            }, {
+               "date_added": "13145998418628953",
+               "id": "53",
+               "meta_info": {
+                  "last_visited_desktop": "13145998418632384"
+               },
+               "name": "Chef Manage",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://172.31.207.210/organizations/walgreenco/nodes"
+            }, {
+               "children": [ {
+                  "date_added": "13146932317263002",
+                  "id": "57",
+                  "meta_info": {
+                     "last_visited_desktop": "13149295785668557"
+                  },
+                  "name": "Newcomers onboarding - Walgreens Boots Alliance - Confluence GlobalLogic",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://confluence.globallogic.com/display/WBA/Newcomers+onboarding"
+               }, {
+                  "date_added": "13146932341102680",
+                  "id": "58",
+                  "meta_info": {
+                     "last_visited_desktop": "13159038490808865"
+                  },
+                  "name": "Individual onboarding plans - Google Drive",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://drive.google.com/drive/folders/0BwFa9_e1HVeJM0lQNU0xZTNfNkU"
+               }, {
+                  "date_added": "13146932361478431",
+                  "id": "59",
+                  "meta_info": {
+                     "last_visited_desktop": "13146932361478728"
+                  },
+                  "name": "WBA-shared: GL Onboarding - Google Sheets",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://docs.google.com/spreadsheets/d/1MP9QHBzEEbWYV6l0OW4FzO7Fi7n42KE1X6VlXco1a0E/edit#gid=777187129"
+               }, {
+                  "date_added": "13146931777876858",
+                  "id": "60",
+                  "meta_info": {
+                     "last_visited_desktop": "13146931777878364"
+                  },
+                  "name": "WBA-shared: GL Onboarding - Google Sheets",
+                  "sync_transaction_version": "1",
+                  "type": "url",
+                  "url": "https://docs.google.com/spreadsheets/d/1MP9QHBzEEbWYV6l0OW4FzO7Fi7n42KE1X6VlXco1a0E/edit#gid=1133821843"
+               } ],
+               "date_added": "13169614688060852",
+               "date_modified": "13169614688060853",
+               "id": "54",
+               "name": "Onboarding",
+               "sync_transaction_version": "1",
+               "type": "folder"
+            }, {
+               "date_added": "13168019731339889",
+               "id": "55",
+               "meta_info": {
+                  "last_visited_desktop": "13168031623116357"
+               },
+               "name": "Jenkins_Prod",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://rxprdjenkins.walgreens.com/"
+            }, {
+               "date_added": "13168376105846542",
+               "id": "56",
+               "meta_info": {
+                  "last_visited_desktop": "13168376105850689"
+               },
+               "name": "Twistlock_prd",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://rxprdtwistlock.walgreens.com/#!/login"
+            } ],
+            "date_added": "13169614688060011",
+            "date_modified": "13169854690929012",
+            "id": "40",
+            "name": "WAG",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         } ],
+         "date_added": "13169614621943565",
+         "date_modified": "0",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13141361534929863",
+               "id": "24",
+               "name": "Dashboard [Jenkins]",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://172.24.204.3:8080/"
+            }, {
+               "date_added": "13141361534934577",
+               "id": "25",
+               "name": "Confluence Verizon Picasso",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://confluence.globallogic.com/display/VSHC/Verizon+-+Picasso"
+            }, {
+               "date_added": "13141361534938891",
+               "id": "26",
+               "meta_info": {
+                  "last_visited_desktop": "13149101953335094"
+               },
+               "name": "Dashboard - Velocity Jira",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://velocity.globallogic.com/jira/secure/Dashboard.jspa?selectPageId=28956"
+            }, {
+               "date_added": "13141361534942990",
+               "id": "27",
+               "meta_info": {
+                  "last_visited_desktop": "13157227183740200"
+               },
+               "name": "Confluence Connected Home Gateway",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://confluence.globallogic.com/display/VCHG/Verizon+Connected+Home+Gateway"
+            }, {
+               "date_added": "13141361534947207",
+               "id": "28",
+               "name": "TS Providers Env Configurations - Google Sheets",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://docs.google.com/spreadsheets/d/1GegrTRsT-wIsUC2U-hBLoCFJXthw-CVLvOmRJrmgfZ4/edit?ts=58887c31#gid=1518150424"
+            }, {
+               "date_added": "13141361534952845",
+               "id": "29",
+               "name": "Mesos",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://mesos.vzudm.com/#/"
+            }, {
+               "date_added": "13141361534957014",
+               "id": "30",
+               "name": "Marathon",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://marathon.vzudm.com/ui/#/apps"
+            }, {
+               "date_added": "13141361534960953",
+               "id": "31",
+               "name": "Artifactory",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://52.200.116.124/artifactory/webapp/#/home"
+            }, {
+               "date_added": "13141361534965153",
+               "id": "32",
+               "name": "DevOps Team Activities - Agile Board - Velocity Jira",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "https://velocity.globallogic.com/jira/secure/RapidBoard.jspa?rapidView=1569"
+            } ],
+            "date_added": "13169614688055781",
+            "date_modified": "13169614688055781",
+            "id": "5",
+            "name": "Verizon",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13167331988285301",
+            "id": "6",
+            "name": "Martin Fowler",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://martinfowler.com/"
+         }, {
+            "date_added": "13166313725557975",
+            "id": "7",
+            "meta_info": {
+               "last_visited_desktop": "13168025656193062"
+            },
+            "name": "GLUE login page",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://accounts.globallogic.com/login/?client_id=1a397079-5a5c-450b-8c71-519b50b5eb73&state=Dwdsr2m2121&redirect_uri=https://portal.globallogic.com/auth/callback&scope=&response_type=code"
+         }, {
+            "date_added": "13167714226681095",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13168025656193062"
+            },
+            "name": "GLUE login page",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://accounts.globallogic.com/login/?client_id=1a397079-5a5c-450b-8c71-519b50b5eb73&state=Dwdsr2m2121&redirect_uri=https://portal.globallogic.com/auth/callback&scope=&response_type=code"
+         }, {
+            "date_added": "13167513007519676",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13168025656193062"
+            },
+            "name": "GLUE login page",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://accounts.globallogic.com/login/?client_id=1a397079-5a5c-450b-8c71-519b50b5eb73&state=Dwdsr2m2121&redirect_uri=https://portal.globallogic.com/auth/callback&scope=&response_type=code"
+         }, {
+            "date_added": "13153236198374028",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13167759932303026"
+            },
+            "name": "YNAB",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://app.youneedabudget.com/"
+         }, {
+            "date_added": "13167929816052317",
+            "id": "11",
+            "name": "YNAB",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://app.youneedabudget.com/"
+         }, {
+            "date_added": "13163892023829344",
+            "id": "12",
+            "meta_info": {
+               "last_visited_desktop": "13167759932303026"
+            },
+            "name": "YNAB",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://app.youneedabudget.com/"
+         }, {
+            "date_added": "13167929816076913",
+            "id": "13",
+            "name": "YNAB. Personal Budgeting Software for Windows, Mac, iOS and Android",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.youneedabudget.com/"
+         }, {
+            "date_added": "13158261355603100",
+            "id": "14",
+            "meta_info": {
+               "last_visited_desktop": "13167759926787269"
+            },
+            "name": "YNAB. Personal Budgeting Software for Windows, Mac, iOS and Android",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.youneedabudget.com/"
+         }, {
+            "date_added": "13167714235007562",
+            "id": "15",
+            "meta_info": {
+               "last_visited_desktop": "13168025656193062"
+            },
+            "name": "GLUE login page",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://accounts.globallogic.com/login/?client_id=1a397079-5a5c-450b-8c71-519b50b5eb73&state=Dwdsr2m2121&redirect_uri=https://portal.globallogic.com/auth/callback&scope=&response_type=code"
+         }, {
+            "date_added": "13167929816089807",
+            "id": "16",
+            "meta_info": {
+               "last_visited_desktop": "13168025656193062"
+            },
+            "name": "GLUE login page",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://accounts.globallogic.com/login/?client_id=1a397079-5a5c-450b-8c71-519b50b5eb73&state=Dwdsr2m2121&redirect_uri=https://portal.globallogic.com/auth/callback&scope=&response_type=code"
+         }, {
+            "date_added": "13157856854479308",
+            "id": "17",
+            "meta_info": {
+               "last_visited_desktop": "13165518689182783"
+            },
+            "name": "Honda Ridgeline Owners Club",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "http://www.ridgelineownersclub.com/"
+         }, {
+            "date_added": "13157583437768829",
+            "id": "18",
+            "meta_info": {
+               "last_visited_desktop": "13168038956152517"
+            },
+            "name": "GlobalLogic Portal",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://portal.globallogic.com/"
+         }, {
+            "date_added": "13164914888710437",
+            "id": "19",
+            "meta_info": {
+               "last_visited_desktop": "13164914888713878"
+            },
+            "name": "Cult of Mac | Tech and culture through an Apple lens",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.cultofmac.com/"
+         }, {
+            "date_added": "13158104286902617",
+            "id": "20",
+            "meta_info": {
+               "last_visited_desktop": "13166832367600251"
+            },
+            "name": "Facebook",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://m.facebook.com/"
+         }, {
+            "date_added": "13163617819080490",
+            "id": "21",
+            "meta_info": {
+               "last_visited_desktop": "13167245286788089"
+            },
+            "name": "Український Наступ",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://m.vk.com/ukr_nastup"
+         }, {
+            "date_added": "13157666081703199",
+            "id": "22",
+            "meta_info": {
+               "last_visited_desktop": "13167781683734847"
+            },
+            "name": "Take typing speed test. Learn to type faster.",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://www.keybr.com/"
+         }, {
+            "date_added": "13157583387006214",
+            "id": "23",
+            "meta_info": {
+               "last_visited_desktop": "13167676115528925"
+            },
+            "name": "MacRumors Forums",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://forums.macrumors.com/"
+         } ],
+         "date_added": "13169614621943567",
+         "date_modified": "13167929816089807",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "3",
+      "synced": {
+         "children": [  ],
+         "date_added": "13169614621943568",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
