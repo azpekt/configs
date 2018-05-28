@@ -43,6 +43,9 @@ bindsym XF86AudioMicMute exec amixer set Capture toggle
 bindsym XF86MonBrightnessUp exec xbacklight -inc 5
 bindsym XF86MonBrightnessDown exec xbacklight -dec 5 
 
+# Other keybindings
+bindsym --release Print exec import "/tmp/screenshot-$(date +%F-%H%M:%S).jpeg"
+
 # start compton
 exec_always --no-startup-id compton --config ~/.config/i3/compton.conf
 
