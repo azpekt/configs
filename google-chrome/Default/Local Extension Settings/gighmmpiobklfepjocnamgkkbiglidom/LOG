@@ -1,28 +1,5 @@
-2018/05/03-15:57:26.587 6506 Reusing MANIFEST /home/nik/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2018/05/03-15:57:26.587 6506 Recovering log #19
-2018/05/03-15:57:26.613 6506 Level-0 table #22: started
-2018/05/03-15:57:26.656 6506 Level-0 table #22: 3280785 bytes OK
-2018/05/03-15:57:26.660 6506 Delete type=0 #19
-2018/05/03-15:58:27.494 6960 Level-0 table #25: started
-2018/05/03-15:58:27.541 6960 Level-0 table #25: 3280537 bytes OK
-2018/05/03-15:58:27.548 6960 Delete type=0 #23
-2018/05/03-15:58:29.430 6960 Level-0 table #27: started
-2018/05/03-15:58:29.478 6960 Level-0 table #27: 3280862 bytes OK
-2018/05/03-15:58:29.482 6960 Delete type=0 #24
-2018/05/03-15:58:29.483 6960 Compacting 4@0 + 2@1 files
-2018/05/03-15:58:29.533 6960 Generated table #28@0: 1 keys, 3280571 bytes
-2018/05/03-15:58:29.536 6960 Generated table #29@0: 4 keys, 391 bytes
-2018/05/03-15:58:29.536 6960 Compacted 4@0 + 2@1 files => 3280962 bytes
-2018/05/03-15:58:29.539 6960 compacted to: files[ 0 2 1 0 0 0 0 ]
-2018/05/03-15:58:29.540 6960 Delete type=2 #22
-2018/05/03-15:58:29.540 6960 Delete type=2 #17
-2018/05/03-15:58:29.540 6960 Delete type=2 #25
-2018/05/03-15:58:29.541 6960 Delete type=2 #16
-2018/05/03-15:58:29.541 6960 Delete type=2 #27
-2018/05/03-15:58:29.542 6960 Delete type=2 #20
-2018/05/03-16:00:23.486 6960 Level-0 table #31: started
-2018/05/03-16:00:23.531 6960 Level-0 table #31: 3282095 bytes OK
-2018/05/03-16:00:23.534 6960 Delete type=0 #26
-2018/05/03-16:58:27.531 6960 Level-0 table #33: started
-2018/05/03-16:58:27.581 6960 Level-0 table #33: 3282196 bytes OK
-2018/05/03-16:58:27.585 6960 Delete type=0 #30
+2018/05/27-06:06:17.511 1538 Reusing MANIFEST /home/nik/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2018/05/27-06:06:17.511 1538 Recovering log #63
+2018/05/27-06:06:17.538 1538 Level-0 table #66: started
+2018/05/27-06:06:17.587 1538 Level-0 table #66: 3317983 bytes OK
+2018/05/27-06:06:17.596 1538 Delete type=0 #63
