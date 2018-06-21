@@ -3,7 +3,8 @@ set $mod Mod4
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
 #font pango: Terminus 16px
-font pango: Ubuntu Mono derivative Powerline 16px, FontAwesome 16px
+#font pango: Ubuntu Mono derivative Powerline 16px, FontAwesome 16px
+font pango: DejaVu Sans Mono for Powerline 16px, FontAwesome 16px
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
@@ -35,13 +36,13 @@ bindsym $mod+d exec rofi -show run
 
 # PulseAudio controls
 bindsym XF86AudioRaiseVolume exec amixer set Master 5%+
-bindsym XF86AudioLowerVolume exec amixer set Master 5%- 
+bindsym XF86AudioLowerVolume exec amixer set Master 5%-
 bindsym XF86AudioMute exec amixer set Master toggle
 bindsym XF86AudioMicMute exec amixer set Capture toggle
 
 # Sreen brightness controls
 bindsym XF86MonBrightnessUp exec xbacklight -inc 5
-bindsym XF86MonBrightnessDown exec xbacklight -dec 5 
+bindsym XF86MonBrightnessDown exec xbacklight -dec 5
 
 # Other keybindings
 bindsym --release Print exec import "/tmp/screenshot-$(date +%F-%H%M:%S).jpeg"
@@ -50,15 +51,15 @@ bindsym --release Print exec import "/tmp/screenshot-$(date +%F-%H%M:%S).jpeg"
 exec_always --no-startup-id compton --config ~/.config/i3/compton.conf
 
 # wallpaper
-exec_always --no-startup-id feh --bg-scale /home/nik/Media/Pictures/Wallpapers/wallhaven-521782.png
+exec_always --no-startup-id feh --bg-scale /home/nik/Media/Pictures/Wallpapers/nathan-anderson-235540-unsplash.jpg
 
 # assigns
 assign [class="Firefox"] $ws1
 assign [class="VirtualBox Machine"] $ws4
 
 # gaps stuff
-gaps inner 5 
-gaps outer 10 
+gaps inner 3
+gaps outer 3
 smart_gaps on
 
 # i3lock
