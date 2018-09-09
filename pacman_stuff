@@ -17,18 +17,29 @@ pacman -S virtualbox
 pacman -S git
 
 load-module module-switch-on-connect > /etc/pulse/default.pa
- sudo  pacman -S xf86-video-intel
- sudo pacman -S sysstat acpi lm_sensors
-  401  sudo pacman -S sysstat
-  426  pacman -S iw
-  310  sudo pacman -S screenfetch
-  350  pacman -Ss scrot
-  351  pacman -S scrot
-  352  sudo pacman -S scrot
-  353  pacman -Ss imagemagick
-  354  sudo pacman -S imagemagick
-  362  pacman -S i3blocks
-  363  sudo pacman -S i3blocks
-  398  pacman -S sysstat acpi lm_sensors
-  135  sudo pacman -S community/rofi
+
+
+sudo  pacman -S xf86-video-intel
+sudo pacman -S sysstat acpi lm_sensors
+sudo pacman -S sysstat
+pacman -S iw
+sudo pacman -S screenfetch
+pacman -Ss scrot
+pacman -S scrot
+sudo pacman -S scrot
+pacman -Ss imagemagick
+sudo pacman -S imagemagick
+pacman -S i3blocks
+sudo pacman -S i3blocks
+pacman -S sysstat acpi lm_sensors
+sudo pacman -S community/rofi
+
+
+
+sudo pacman -S networkmanager
+sudo systemctl enable NetworkManager.service
+sudo systemctl disable netctl-auto@wlp2s0.service
+sudo systemctl start NetworkManager.service
+sudo pacman -S network-manager-applet
+sudo pacman -S network-manager-applet
 
