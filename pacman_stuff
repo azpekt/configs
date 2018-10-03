@@ -12,7 +12,7 @@ pacman -S screen
 pacman -S htop
 pacman -S terminus-font
 pacman -S pavucontrol
-pacman -S pulseaudio-alsa pulseaudio-bluetooth bluez bluez-libs bluez-utils
+pacman -S pulseaudio-alsa pulseaudio-bluetooth bluez bluez-libs bluez-utils blueman
 pacman -S virtualbox
 pacman -S git
 
@@ -43,3 +43,8 @@ sudo systemctl start NetworkManager.service
 sudo pacman -S network-manager-applet
 sudo pacman -S network-manager-applet
 
+
+
+sudo pacman -S arandr
+
+sudo pacman -S dbus
