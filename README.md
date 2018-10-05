@@ -5,4 +5,3 @@ bash prompt - liquidprompt
 
 
 
-something
