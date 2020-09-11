@@ -1,8 +1,0 @@
-#URxvt.font: -*-terminus-bold-r-normal--24-*-*-*-*-*-*-*
-#URxvt.font: xft: TerminessTTF Nerd Font Mono:pixelsize=27:style=Bold, xft:DejaVu Sans:pixelsize=18
-URxvt.font: xft: Ubuntu Nerd Font:style=Book:pixelsize=24
-URxvt.scrollBar: false
-URxvt*background: black
-URxvt*foreground: white
-
-
