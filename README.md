@@ -5,5 +5,5 @@ zsh configs
 powerline-go
 tmux configs
 
-
+and other stuff
 
